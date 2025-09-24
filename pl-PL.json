@@ -21,7 +21,7 @@
     "SYSTEM": {
         "INTRO_TEXT": "Sekcja zawiera podstawowe ustawienia {{.constants.GLOBAL_PROD_NAME}}, które są wymagane do poprawnego działania urządzenia.",
         "DEVICE_NAME": "Nazwa Urządzenia",
-        "HELP_DEVICE_NAME": "Nazwa do zidentyfikowania (inaczej 'hostname') twojego urządzenia {{.constants.GLOBAL_PROD_NAME}}. Funkcja bardzo przydatna jeżeli masz więcej niż jedno urządzenie {{.constants.GLOBAL_PROD_NAME}} w twojej sieci.",
+        "HELP_DEVICE_NAME": "Nazwa do zidentyfikowania (inaczej 'Hostname') twojego urządzenia {{.constants.GLOBAL_PROD_NAME}}. Funkcja bardzo przydatna jeżeli masz więcej niż jedno urządzenie {{.constants.GLOBAL_PROD_NAME}} w twojej sieci.",
         "LANGUAGE": "Język",
         "HELP_LANGUAGE": "Wybierz język interfejsu GUI.",
         "TIMEZONE": "Strefa Czasowa",
