@@ -59,7 +59,10 @@
     "HELP_WIRELESS_NETWORK": "Wählen Sie das WLAN-Netzwerk aus, dem Sie beitreten möchten.",
     "BUTTON_SCAN": "SCANNEN",
     "WIRELESS_PASSWORD": "Passwort",
-    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten."
+    "HELP_WIRELESS_PASSWORD": "Das Passwort (WPA-PSK-Passphrase) für das drahtlose Netzwerk, dem Sie beitreten möchten.",
+    "ACTIVE_NETWORK_INTERFACE": "Aktive Netzwerkschnittstelle",
+    "HELP_ACTIVE_NETWORK_INTERFACE": "Konfigurieren Sie, welche Netzwerkschnittstelle für die Anzeige der sichtbaren IP-Adresse verwendet werden soll.",
+    "OPTION_ETHERNET_WIFI": "Ethernet (sonst Wi-Fi)"
   },
   "DISPLAY": {
     "INTRO_TEXT": "Dieser Abschnitt enthält die Einstellungen für den Raspberry Pi Touchscreen.",
@@ -118,6 +121,8 @@
     "HELP_ALARM_CLOCK": "Die Alarm Clock Extension von TheAppgineer ermöglicht es, einen Wecker für eine Roon-Zone zu setzen.",
     "TOUCHSCREEN_TYPE": "Touchscreen-Typ",
     "HELP_TOUCHSCREEN_TYPE": "Welcher Typ von Touchscreen ist angeschlossen?",
+    "TOUCH": "Touch",
+    "HELP_TOUCH": "Touch-Eingabe aktivieren.",
     "BUTTON_SHUTDOWN": "Herunterfahren",
     "BUTTON_REBOOT": "Neustart",
     "BUTTON_ROONBRIDGE": "Roon Bridge Neu Installieren",
@@ -157,5 +162,20 @@
     "APPRECIATION_TEXT": "Jede Spende wird sehr geschätzt!",
     "REGARDS_TEXT": "Mit freundlichen Grüßen,",
     "BUTTON_HOME": "ZUR STARTSEITE"
+  },
+  "INIT": {
+    "DONATE_1": "Hoffentlich bereitet dieses Produkt Freude.",
+    "DONATE_2": "Spenden sind willkommen 😉",
+    "INITIALISING": "Ihr Gerät wird initialisiert...",
+    "WAIT": "Es ist in Kürze einsatzbereit, bitte haben Sie etwas Geduld...",
+    "WELCOME": "Willkommen bei {{.constants.GLOBAL_PROD_NAME}}!",
+    "WRAPPING_UP_1": "Installation wird abgeschlossen... Bitte nicht unterbrechen.",
+    "WRAPPING_UP_2": "Dies kann noch einige Minuten dauern, aber wir sind fast fertig. Während dieses Schritts kann das Gerät mehrfach neu starten."
+  },
+  "UPDATE": {
+    "DONT_INTERRUPT": "Bitte nicht unterbrechen oder ausschalten.",
+    "IN_PROGRESS": "Aktualisierung läuft...",
+    "WAIT_1": "Ihr {{.constants.GLOBAL_PROD_NAME}} wird aktualisiert auf",
+    "WAIT_2": "Dies kann eine Weile dauern..."
   }
 }
