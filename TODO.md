@@ -14,14 +14,17 @@ The following (sub)keys are missing:
 | DISPLAY | sublevel key ORIENTATION_FLIPPED missing |
 | INIT | toplevel key missing |
 | UPDATE | toplevel key missing |
+| WELCOME | toplevel key missing |
 
 
 | language | nl-NL.json |
 | -------- | ------------------- |
-no issues found!
+| INIT | sublevel key DONATIONS missing |
+| WELCOME | toplevel key missing |
 
 
 | language | pl-PL.json |
 | -------- | ------------------- |
-no issues found!
+| INIT | sublevel key DONATIONS missing |
+| WELCOME | toplevel key missing |
 
