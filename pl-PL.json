@@ -166,6 +166,7 @@
         "WAIT": "Za chwilę wszystko będzie gotowe, więc prosimy o cierpliwość...",
         "WRAPPING_UP_1": "Trwa instalacja... Proszę jej nie przerywać.",
         "WRAPPING_UP_2": "Może to zająć jeszcze kilka minut, ale już prawie jesteśmy na miejscu. Na tym etapie urządzenie może kilka razy uruchomić się ponownie.",
+        "DONATIONS": "Darowizny",
         "DONATE_1": "Mam nadzieję, że spodoba ci się {{.constants.GLOBAL_PROD_NAME}}.",
         "DONATE_2": "są mile widziane 😉"
     },
@@ -174,5 +175,11 @@
         "WAIT_1": "Twoje {{.constants.GLOBAL_PROD_NAME}} jest aktualizowane",
         "WAIT_2": "To może chwilę potrwać...",
         "DONT_INTERRUPT": "Proszę nie przerywaj aktualizacji i nie wyłączaj urządzenia."
+    },
+    "WELCOME": {
+        "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj go według swoich preferencji na tej stronie i zacznij słuchać muzyki.",
+        "SUPPORT_1": "Dokumentację RoPieee znajdziesz na tej stronie.",
+        "SUPPORT_2": "Jeżeli potrzebujesz dalszego wsparcia możesz odwiedzić tę stronę",
+        "SUPPORT_3": "gdzie znajdziesz innych użytkowników, którzy chętnie pomogą Ci, jeśli masz pytania."
     }
 }
