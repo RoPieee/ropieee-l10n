@@ -25,6 +25,5 @@ The following (sub)keys are missing:
 
 | language | pl-PL.json |
 | -------- | ------------------- |
-| INIT | sublevel key DONATIONS missing |
-| WELCOME | toplevel key missing |
+no issues found!
 
