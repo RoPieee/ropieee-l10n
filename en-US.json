@@ -177,6 +177,7 @@
         "DONT_INTERRUPT": "Please do not interrupt or turn it off."
     },
     "WELCOME": {
+        "WELCOME_TO": "Welcome to",
         "READY": "Your device is installed and ready for use! Configure it to your preferences on this website and start listening to music.",
         "SUPPORT_1": "RoPieee’s documentation can be found on",
         "SUPPORT_2": "and if you need any assistance you can visit the",
