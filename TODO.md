@@ -25,5 +25,5 @@ The following (sub)keys are missing:
 
 | language | pl-PL.json |
 | -------- | ------------------- |
-no issues found!
+| WELCOME | sublevel key WELCOME_TO missing |
 
