@@ -44,8 +44,8 @@
     },
     "NETWORK": {
         "INTRO_TEXT": "Cette section contient les réglages de la configuration réseau de {{.constants.GLOBAL_PROD_NAME}}.",
-        "SWITCH_WIRELESS": "Activer le sans-fil",
-        "HELP_SWITCH_WIRELESS": "Sélectionner pour activer le WiFi.",
+        "SWITCH_WIRELESS": "Activer le wifi",
+        "HELP_SWITCH_WIRELESS": "Sélectionner pour activer le wifi.",
         "TAB_WIRED": "Filaire",
         "TAB_WIRELESS": "Sans fil / wifi",
         "WIRED_CONFIG_METHOD": "Méthode de configuration",
