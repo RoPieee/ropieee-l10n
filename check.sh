@@ -181,7 +181,7 @@ do
    if [ $nr -eq 0 ]
    then
       echo "no issues found!"
-      echo "no issues found!" >> $todo_file
+      test $TODO -eq 1 && echo "no issues found!" >> $todo_file
    fi
 
    if [ $TODO -eq 1 ]
