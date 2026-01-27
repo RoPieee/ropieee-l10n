@@ -17,6 +17,11 @@ The following (sub)keys are missing:
 | WELCOME | toplevel key missing |
 
 
+| language | fr-FR.json |
+| -------- | ------------------- |
+no issues found!
+
+
 | language | nl-NL.json |
 | -------- | ------------------- |
 | INIT | sublevel key DONATIONS missing |
