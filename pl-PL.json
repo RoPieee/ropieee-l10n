@@ -177,9 +177,10 @@
         "DONT_INTERRUPT": "Proszę nie przerywaj aktualizacji i nie wyłączaj urządzenia."
     },
     "WELCOME": {
-        "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj go według swoich preferencji na tej stronie i zacznij słuchać muzyki.",
-        "SUPPORT_1": "Dokumentację RoPieee znajdziesz na tej stronie.",
-        "SUPPORT_2": "Jeżeli potrzebujesz dalszego wsparcia możesz odwiedzić tę stronę",
-        "SUPPORT_3": "gdzie znajdziesz innych użytkowników, którzy chętnie pomogą Ci, jeśli masz pytania."
+        "WELCOME_TO": "Witam w {{.constants.GLOBAL_PROD_NAME}}!",
+        "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj je według swoich preferencji na tej stronie i zacznij słuchać muzyki.",
+        "SUPPORT_1": "Dokumentację RoPieee znajdziesz na",
+        "SUPPORT_2": "jeżeli potrzebujesz dalszego wsparcia możesz odwiedzić",
+        "SUPPORT_3": ", gdzie znajdziesz innych użytkowników, którzy chętnie pomogą Ci jeśli będziesz miał jakieś pytania lub problemy techniczne."
     }
 }
