@@ -30,5 +30,5 @@ no issues found!
 
 | language | pl-PL.json |
 | -------- | ------------------- |
-| WELCOME | sublevel key WELCOME_TO missing |
+no issues found!
 
