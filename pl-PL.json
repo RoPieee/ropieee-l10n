@@ -30,7 +30,7 @@
     "AUDIO": {
         "INTRO_TEXT": "Sekcja zawiera podstawowe ustawienia dźwięku {{.constants.GLOBAL_PROD_NAME}}, które są niezbędne do prawidłowego funkcjowania urządzenia.",
         "HAT": "Nakładka HAT",
-        "HELP_HAT": "Wybierz swoją nakładkę HAT, którą {{.constants.GLOBAL_PROD_NAME}} będzie używać.",
+        "HELP_HAT": "Wybierz nakładkę HAT dla {{.constants.GLOBAL_PROD_NAME}}.",
         "DAPM": "Dynamiczne Zarządzanie Energią",
         "HELP_DAPM": "Włącz dynamiczne zarządzanie energią (ALSA DAPM). Opcja wyłącza wyjście audio niektórych nakładek HAT (po przekroczeniu limitu czasu), gdy nakładka HAT nie jest używana.",
         "USB": "Audio USB",
@@ -68,7 +68,7 @@
         "ORIENTATION_NORMAL": "Normalna",
         "ORIENTATION_FLIPPED": "Odwrócona", 
         "ROON_DEFAULT_ZONE": "Domyślna Strefa Roon",
-        "HELP_ROON_DEFAULT_ZONE": "Którą strefę Roon powinien domyślnie pokazywać wyświetlacz. Upewnij się, że wpisałeś właściwą strefę jak w ustawieniach Roon. Strefę możesz zmienić także bezpośrednio z ekranu.",
+        "HELP_ROON_DEFAULT_ZONE": "Upewnij się, że wpisałeś właściwą strefę taką jak w ustawieniach Roon.",
         "SCROLL_TITLES": "Przewiń Długie Tytuły",
         "HELP_SCROLL_TITLES": "Włącz przewijanie długich tytułów utworów.",
         "HIDE_OPTIONS": "Ukryj Przycisk Opcji",
@@ -100,13 +100,13 @@
         "UPDATE_CHANNEL": "Kanał Aktualizacji",
         "HELP_UPDATE_CHANNEL": "Kanał, którego {{.constants.GLOBAL_PROD_NAME}} używa do aktualizacji. Domyślnym kanałem jest kanał 'Stable'.",
         "AUTO_UPDATE": "Automatyczna Aktualizacja",
-        "HELP_AUTO_UPDATE": "Włącz automatyczną aktualizację. To zadziała tylko wtedy, gdy włączony jest harmonogram ponownego uruchamiania {{.constants.GLOBAL_PROD_NAME}}.",
+        "HELP_AUTO_UPDATE": "Włącz automatyczną aktualizację. Funkcja zadziała tylko wtedy, gdy włączony jest harmonogram ponownego uruchamiania {{.constants.GLOBAL_PROD_NAME}}.",
         "REBOOT_SCHEDULE": "Harmonogram Ponownego Uruchomienia",
         "HELP_REBOOT_SCHEDULE": "Kiedy {{.constants.GLOBAL_PROD_NAME}} ma uruchomić się automatycznie?",
         "REBOOT_TIME": "Godzina Automatycznego Uruchomienia",
         "HELP_REBOOT_TIME": "O której godzinie {{.constants.GLOBAL_PROD_NAME}} ma uruchomić się ponownie?",
         "WEB_AUTH": "Hasło Administratora",
-        "HELP_WEB_AUTH": "Włącz logowanie do GUI {{.constants.GLOBAL_PROD_NAME}} za pomocą hasła.",
+        "HELP_WEB_AUTH": "Włącz logowanie za pomocą hasła do {{.constants.GLOBAL_PROD_NAME}} GUI.",
         "WEB_PASSWORD": "Hasło",
         "HELP_WEB_PASSWORD": "Hasło do logowania się do {{.constants.GLOBAL_PROD_NAME}}.",
         "LED_FUNCTION": "Diody LED",
@@ -178,9 +178,9 @@
     },
     "WELCOME": {
         "WELCOME_TO": "Witam w {{.constants.GLOBAL_PROD_NAME}}!",
-        "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj je według swoich preferencji na tej stronie i zacznij słuchać muzyki.",
+        "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj je według swoich preferencji i zacznij słuchać muzyki.",
         "SUPPORT_1": "Dokumentację RoPieee znajdziesz na",
         "SUPPORT_2": "jeżeli potrzebujesz dalszego wsparcia możesz odwiedzić",
-        "SUPPORT_3": ", gdzie znajdziesz innych użytkowników, którzy chętnie pomogą Ci jeśli będziesz miał jakieś pytania lub problemy techniczne."
+        "SUPPORT_3": "gdzie znajdziesz innych użytkowników, którzy chętnie pomogą Ci jeśli będziesz miał jakieś pytania lub problemy techniczne."
     }
 }
