@@ -177,7 +177,7 @@
         "DONT_INTERRUPT": "Proszę nie przerywaj aktualizacji i nie wyłączaj urządzenia."
     },
     "WELCOME": {
-        "WELCOME_TO": "Witam w {{.constants.GLOBAL_PROD_NAME}}!",
+        "WELCOME_TO": "Witam w",
         "READY": "Twoje urządzenie zostało zainstalowane i jest gotowe do użycia! Skonfiguruj je według swoich preferencji i zacznij słuchać muzyki.",
         "SUPPORT_1": "Dokumentację RoPieee znajdziesz na",
         "SUPPORT_2": "jeżeli potrzebujesz dalszego wsparcia możesz odwiedzić",
