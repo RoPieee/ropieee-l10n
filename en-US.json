@@ -16,7 +16,8 @@
     },
     "GENERAL": {
         "BUTTON_APPLY": "Apply",
-        "BUTTON_RESET": "Reset"
+        "BUTTON_RESET": "Reset",
+        "BUTTON_CONTINUE": "Continue"
     },
     "SYSTEM": {
         "INTRO_TEXT": "This section contains the basic settings for {{.constants.GLOBAL_PROD_NAME}} that are required for it to function as an endpoint.",
@@ -154,6 +155,7 @@
         "BUTTON_RELOAD": "Reload"
     },
     "DONATE": {
+        "HEADER": "Make a donation",
         "INTRO_TEXT": "{{.constants.GLOBAL_PROD_NAME}} is purely a hobby project, and as such, I take care of the costs involved. Think of hosting costs, hardware, etc. That means that {{.constants.GLOBAL_PROD_NAME}} relies on donations to cover these costs.",
         "OPTIONS_TEXT": "The following donation options exist:",
         "APPRECIATION_TEXT": "Every donation is highly appreciated!",
@@ -181,6 +183,7 @@
         "READY": "Your device is installed and ready for use! Configure it to your preferences on this website and start listening to music.",
         "SUPPORT_1": "RoPieee’s documentation can be found on",
         "SUPPORT_2": "and if you need any assistance you can visit the",
-        "SUPPORT_3": "where you'll find other users that are willing to help out if you're having questions."
+        "SUPPORT_3": "where you'll find other users that are willing to help out if you're having questions.",
+        "REGARDS_TEXT": "Best regards,"
     }
 }
