@@ -11,7 +11,7 @@
         "REMOTE": "Télécommande",
         "ADVANCED": "Avancé",
         "SERVICES": "Services",
-        "INFORMATION": "Information",
+        "INFORMATION": "Informations",
         "DEVICES": "Appareils"
     },
     "GENERAL": {
@@ -99,7 +99,7 @@
         "INTRO_TEXT": "Cette section contient les réglages avancés. Ne les modifiez que si vous savez exactement ce que vous faîtes !",
         "UPDATE_CHANNEL": "Canal de mise à jour ",
         "HELP_UPDATE_CHANNEL": "Le canal que {{.constants.GLOBAL_PROD_NAME}} utilise pour ses mises à jour. Normalement ce devrait être 'Stable'.",
-        "AUTO_UPDATE": "Mise à jour automatique ",
+        "AUTO_UPDATE": "Mises à jour automatiques ",
         "HELP_AUTO_UPDATE": "Active les mises à jour automatiques. Ceci ne fonctionnera que quand si les redémarrages périodiques sont activés un peu plus bas.",
         "REBOOT_SCHEDULE": "Période des redémarrages ",
         "HELP_REBOOT_SCHEDULE": "Période souhaitée pour les redémarrages de {{.constants.GLOBAL_PROD_NAME}}.",
@@ -131,7 +131,7 @@
         "SOFTWARE_VERSION": "Version logicielle ",
         "KERNEL_VERSION": "Version Kernel ",
         "BOARD_TEMP": "Température de la carte mère" ,
-        "UPTIME": "Allumé depuis" ,
+        "UPTIME": "Allumé depuis " ,
         "BOARD_SERIAL": "Numéro de série de la carte mère ",
         "BOARD_UUID": "UUID de l'unité ",
         "BOARD_TYPE": "Type de carte mère ",
@@ -149,12 +149,12 @@
         "TABLE_HOST_ME": "ME"
     },
     "DOWN": {
-        "LINE_1": "Votre périphérique redémarre. Ceci prendra environ une minute avant que la page web ne redevienne disponible.",
-        "LINE_2": "Cette page se rafraichira automatiquement quand le {{.constants.GLOBAL_PROD_NAME}} sera de nouveau opérationnel.",
-        "BUTTON_RELOAD": "Rafraichir"
+        "LINE_1": "Votre périphérique redémarre. Cela prendra environ une minute avant que la page web ne redevienne disponible.",
+        "LINE_2": "Cette page se rafraîchira automatiquement quand le {{.constants.GLOBAL_PROD_NAME}} sera de nouveau opérationnel.",
+        "BUTTON_RELOAD": "Rafraîchir"
     },
     "DONATE": {
-        "INTRO_TEXT": "{{.constants.GLOBAL_PROD_NAME}} est un projet de hobbyiste, et à ce titre, je prends en charge les coûts induits (matériel, hébergement...). Ceci veut dire que {{.constants.GLOBAL_PROD_NAME}} dépend des dons pour compenser ces coûts.",
+        "INTRO_TEXT": "{{.constants.GLOBAL_PROD_NAME}} est un projet de hobbyiste, et à ce titre je prends en charge les coûts induits (matériel, hébergement...). Ceci veut dire que {{.constants.GLOBAL_PROD_NAME}} dépend des dons pour compenser ces coûts !",
         "OPTIONS_TEXT": "Les options suivantes existent pour effectuer un don :",
         "APPRECIATION_TEXT": "Chaque don sera hautement apprécié !",
         "REGARDS_TEXT": "Bien à vous,",
@@ -174,7 +174,7 @@
         "IN_PROGRESS": "Mise à jour en cours...",
         "WAIT_1": "Votre {{.constants.GLOBAL_PROD_NAME}} est en cours de mise à jour",
         "WAIT_2": "Ça peut prendre un petit moment...",
-        "DONT_INTERRUPT": "Merci de ne pas l'interrompre ou éteindre l'appareil."
+        "DONT_INTERRUPT": "Merci de ne pas l'interrompre ni d'éteindre l'appareil."
     },
     "WELCOME": {
         "WELCOME_TO": "Bienvenue sur",
