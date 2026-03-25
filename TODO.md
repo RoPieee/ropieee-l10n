@@ -36,7 +36,5 @@ The following (sub)keys are missing:
 
 | language | pl-PL.json |
 | -------- | ------------------- |
-| GENERAL | sublevel key BUTTON_CONTINUE missing |
-| DONATE | sublevel key HEADER missing |
-| WELCOME | sublevel key REGARDS_TEXT missing |
+no issues found!
 
