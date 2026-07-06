@@ -32,6 +32,8 @@
         "INTRO_TEXT": "This section contains the audio settings for {{.constants.GLOBAL_PROD_NAME}} that are required for it to function as an endpoint.",
         "HAT": "Audio HAT",
         "HELP_HAT": "Select the audio HAT the {{.constants.GLOBAL_PROD_NAME}} needs to use.",
+        "HDMI": "Audio HDMI",
+        "HELP_HDMI": "Select to enable HDMI audio output. This can be used in parallel with an Audio HAT and/or USB audio.",
         "DAPM": "Dynamic Audio Power Mgt",
         "HELP_DAPM": "Enable Dynamic Audio Power Management (ALSA DAPM). This disables the output on certain HAT's (after a time-out) when idling.",
         "USB": "Audio USB",
