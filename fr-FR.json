@@ -16,7 +16,8 @@
     },
     "GENERAL": {
         "BUTTON_APPLY": "Appliquer",
-        "BUTTON_RESET": "Réinitialiser"
+        "BUTTON_RESET": "Réinitialiser",
+        "BUTTON_CONTINUE": "Continuer"
     },
     "SYSTEM": {
         "INTRO_TEXT": "Cette section contient les réglages de base de {{.constants.GLOBAL_PROD_NAME}} requis pour opérer comme appareil de diffusion audio.",
@@ -154,6 +155,7 @@
         "BUTTON_RELOAD": "Rafraîchir"
     },
     "DONATE": {
+        "HEADER": "Faire un don",
         "INTRO_TEXT": "{{.constants.GLOBAL_PROD_NAME}} est un projet de hobbyiste, et à ce titre je prends en charge les coûts induits (matériel, hébergement...). Ceci veut dire que {{.constants.GLOBAL_PROD_NAME}} dépend des dons pour compenser ces coûts !",
         "OPTIONS_TEXT": "Les options suivantes existent pour effectuer un don :",
         "APPRECIATION_TEXT": "Chaque don sera hautement apprécié !",
@@ -165,7 +167,7 @@
         "INITIALISING": "Votre périphérique est en cours d'initialisation...",
         "WAIT": "Il sera prêt dans un petit moment, soyez patient SVP...",
         "WRAPPING_UP_1": "Finalisation de l'installation... Merci de ne pas l'interrompre.",
-        "WRAPPING_UP_2": "Ceci peut prendre encre quelques minutes, mais rassurez-vous on y est presque... Pendant cette étape l'appareil pourra redémarrer à plusieurs reprises, c'est normal !",
+        "WRAPPING_UP_2": "Ceci peut prendre encore quelques minutes, mais rassurez-vous on y est presque... Pendant cette étape l'appareil pourra redémarrer à plusieurs reprises, c'est normal !",
         "DONATIONS": "Les dons sont les bienvenus",  
         "DONATE_1": "J'espère que ce produit vous plaira.",
         "DONATE_2": ", merci d'avance 😉."
@@ -181,6 +183,7 @@
         "READY": "Votre périphérique est installé et prêt à être utilisé ! Configurez le selon vos préférences sur cette interface web et en avant la musique !",
         "SUPPORT_1": "La documentation de RoPieee peut être trouvée sur ",
         "SUPPORT_2": "et si vous avez besoin d'assistance vous pouvez visiter le ",
-        "SUPPORT_3": "où vous trouverez d'autres utilisateurs enclins à vous assister si vous avez des questions."
+        "SUPPORT_3": "où vous trouverez d'autres utilisateurs enclins à vous assister si vous avez des questions.",
+        "REGARDS_TEXT": "Bien à vous,"
     }
 }
